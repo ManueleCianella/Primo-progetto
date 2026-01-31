@@ -1,0 +1,4 @@
+nome = ("lorenzo")
+print = nome
+nome = (46)
+print = nome
